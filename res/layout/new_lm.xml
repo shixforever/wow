@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="声望的重要性"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1.可以用长者的好运符在声望军需官处购买一些特殊物品，用来帮助通关单人场景副本——雷电之王的宝藏。"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2.达到尊敬后，可以花金币购买476装等的PVE腰带，崇敬后可以用勇气点兑换496披风，崇拜可以兑换496的戒指。尊敬金币购买的476腰带可以帮助小号提高装备等级"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3.双倍声望奖章。当角色达到肯瑞托远征军声望崇敬，同样可以购买并使用肯瑞托远征军奖章，使该角色从崇敬到崇拜的声望获取速度翻倍，而且该账号下其他角色一旦开启肯瑞托远征军声望，也是双倍声望获取速度！"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4.达到崇拜后还能购买5.2新增坐骑“黄金原始恐角龙”！ "
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="声望开启"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="90级联盟玩家在潘达利亚大陆可自动接到新声望起始任务“雷霆召唤”，要你到螳螂高原的影踪卫戎营找温蕾萨·风行者。
+  按照地图指示的位置找到温蕾萨后，与其对话交完任务，她就会带你坐上角鹰兽飞往雷神岛（以后可以通过传送门来往于影踪卫戎营和雷神岛之间）。
+接下来，在船上回合吉安娜后，她会给你一个单人场景任务“突袭绍尔马拉”。
+这个单人场景战役一共有五个阶段，前几阶段都是杂兵和普通小BOSS没有难度，最终阶段注意地上的减伤屏障对BOSS同样有效。
+完成以上任务后，吉安娜会出现，把这个BOSS的祭台修建成联盟营地，声望也正式开启。
+根据服务器雷神岛的解锁程度，吉安娜会交给玩家一系列的单人场景任务。只有完成当前服务器解锁程度的所有单人场景战役才会开启日常任务。
+第一阶段：“突袭绍尔马拉”，进驻雷神岛
+第二阶段：“摧毁城墙”，攻占下层城市
+第三阶段:“直冲云霄”，占领闪电矿脉
+第四阶段：“风暴之海码头”，攻占船坞
+第五阶段：“山怖之死”，占领雷电王座大门前厅
+        
+"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="日常任务"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="和以往版本的日常不同的是，雷神岛的日常任务需要玩家选择PVP或者PVE模式来选择今天的日常奖励。
+选择不同奖励的货币也不同，选择PVE的玩家奖励勇气点数，声望也比PVP多了将近一倍，但是PVP可以获得荣誉和征服点。
+根据服务器进度，雷神岛区域将被逐渐解锁，玩家在区域解锁后可以完成单人场景战役来解锁新地区的日常。
+最开始第一阶段的几个日常任务，随着服务器雷神岛解锁的程度，能接到的日常任务也越来越多。
+第一阶段日常：
+战栗的沼泽：杀死一只强大的魔暴龙。
+高塔下的强敌：击败7名阴惨泥沼的山泽魔古。
+赞图尔的危机：击败12名赞图尔的巨魔。
+苦痛折磨：解救一只痛苦的啸天龙。
+防患未然：吓跑12只啸天雏龙。
+渗透力量：杀死奴卡拉。
+解体：找回四个故障的构造体。
+清洁工作：分解75个污秽之物。
+蜥蜴人的皮：击败邪刃蜥蜴人。
+严峻局势：击败白骨庭院的山泽魔古。
+放血者：杀死放血者喀岱。
+第二阶段日常：
+保守秘密：击败征服者平台的八个巨魔。
+　　巨人的陨殁：杀死守护者塔克乌。
+　　夺自敌手：获得敌人七把灌注神力的利刃。
+　　第三阶段日常：
+　　女王密令：解救闪电矿洞的密探，并杀死金铁领主莫诺汗。
+　　第四阶段日常：
+　　近在眼前：击败锻造大师和塑血者并拿到一块法典碎片（两个任务BOSS）。
+　　第五阶段日常：
+　　突袭宝库：进入浮华宝库拿到风暴项圈。
+下面对一些略有难度的日常进行简单的说明讲解：
+　　 第一阶段任务“战栗的沼泽”：这只魔暴龙非常强大，千万不要小看了它，它有三个技能，一个是近战践踏，大概10万血，还有一个邪恶喷吐，会在地上形成一个紫色的毒液池，在里面会持续掉血并有Debuff，但是伤害并不高。真正值得注意的是一个名叫“反刍酸液”的招数，会在脚下5码范围和前方锥形区域持续喷吐绿色酸液，大概每0.5秒掉15万的血，而且它会缓慢的扭头喷吐，所以在它的面前千万不能发呆。
+在雷霆熔炉的日常“女王密令”里，需要玩家杀死杀死金铁领主莫诺汗，这是一个拥有近千万血量的任务BOSS，会在地上不停放置释放闪电的铁块，但伤害并不高，被电一次1.5万血，需要注意的是他的回旋斩，具有多段大范围伤害，一次伤害有15万左右，如果不躲开被转到的话就危险了。
+“近在眼前”这个日常任务需要击杀两位任务BOSS，其中需要注意的是第一个“锻造大师”。虽然血量不多，但是技能仍然很让玩家头痛，周围游离漂浮的点球需要注意躲避，另外BOSS半血后会进入无敌状态并停止行动，需要玩家到周围关闭四个雷电发生装置，这里注意必须跳到小台子上才是安全的，下面的雷云也是很危险的，玩家在雷云中会很快掉血。
+“突袭宝库”通常是一天中最后一个日常，这是个既危险有有趣的任务，玩家需要击败一个渣渣BOSS，然后跳到对面的台子上拿到任务物品。看似简单，但是这几块布满雷云的台子其实杀机重重，雷云的伤害非常高，通常几秒就会把玩家电死，需要观察雷云的动向，及时跳到没有雷云的台子上，如果在雷云台子上跳，会被雷云拉住，然后掉到下面去。下面是一群石化的魔古在震击地面，如果残血的话掉下去可是凶多吉少。小编在这里有个小窍门可以分享下，如果在雷云台子上死掉了，可以跑尸体直接在对面复活哦！
+        "
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="其他获取声望的方法"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="　玩家可以通过随机5人英雄本和随机场景战役来指定获取声望，该方法不仅可以用来获取5.0，5.1版本的熊猫人声望，还能增加5.2肯瑞托远征军的声望。"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="趣味单人场景战役：雷电之王的宝藏"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="在雷电岛上击杀怪物，有一定几率获得“雷神宫殿的钥匙”，拿到钥匙后在岛上找到影踪的“陶矢”，就能进入趣味型单人场景战役，在一定时间内尽快的通过地图，尽快的拿到更得箱子，箱子中包含了大量的金币和长者的好运符，也同样包括了“残破的古旧羊皮纸”，可以用来兑换账号绑定的提升肯瑞托远征军声望的物品，一张羊皮纸增加25点声望。
+另外在肯瑞托远征军的军需官处可以用好运符购买一些辅助物品，帮助玩家更快更便捷地通过雷电之王的宝藏这个单人场景战役。
+
+　　捷足药水：1个长者好运符 使用：在雷电之王的宝藏场景战役中可被用来漂浮在地砖陷阱上，下落速度减缓，并且可以水上行走。任何攻击都会打断该效果。需要 肯瑞托远征军-友善。
+
+　　催眠粉尘：1个长者好运符 使用：利用魔法使目标陷入沉睡，持续25秒。只对雷电之王的宝藏场景战役中的人形生物和野兽起作用。需要 肯瑞托远征军-尊敬。
+
+　　普通的石头*2：1个长者好运符 使用：在雷电之王的宝藏战役中可悲用来扰乱一名敌人或者触发一个陷阱。需要 肯瑞托远征军-尊敬。
+
+　　魔法推进剂*2：1个长者好运符 使用：小号一个奥术专注来将你向前推进。只能在雷电之王的宝藏场景战役中使用。需要 肯瑞托远征军-崇敬。
+
+　　冰霜符文陷阱：1个长者好运符 使用：设置一道符文，可将踏足其上的敌对目标冻结，持续20秒。只能在雷电之王的宝藏场景战役中使用。需要 肯瑞托远征军-崇敬。
+
+　　万用钥匙：3个长者好运符 使用：利用魔法改造钥匙，使其能够打开雷电之王的宝藏场景战役中雷电堡的任意一座远古之门。需要 肯瑞托远征军-崇拜。"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

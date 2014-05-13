@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="professions">
+        <item>法师</item>
+        <item>战士</item>
+        <item>骑士</item>
+        <item>死亡骑士</item>
+        <item>武僧</item>
+        <item>萨满</item>
+        <item>小D</item>
+        <item>牧师</item>
+        <item>盗贼</item>
+        <item>猎人</item>
+        <item>术士</item>
+    </string-array>
+    <string-array name="skills">
+        <item>炼金</item>
+        <item>铭文</item>
+        <item>锻造</item>
+        <item>珠宝</item>
+        <item>附魔</item>
+        <item>工程</item>
+        <item>制皮</item>
+        <item>裁缝</item>
+        <item>采药</item>
+        <item>采矿</item>
+        <item>剥皮</item>
+        <item>钓鱼</item>
+        <item>烹饪</item>
+        <item>考古</item>
+        <item>急救</item>
+    </string-array>
+    <string-array name="battlefields">
+        <item>战歌峡谷</item>
+        <item>阿拉希</item>
+        <item>奥山</item>
+        <item>风暴之眼</item>
+        <item>远古海滩</item>
+        <item>征服之岛</item>
+        <item>双子峰</item>
+        <item>吉尔尼斯</item>
+        <item>寇魔古寺</item>
+        <item>碎银矿坑</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="light_yellow">#fff5d9</color>
+    <!-- 红色 -->
+    <color name="dark_red">#cd0000</color>
+    <!-- 橙色 -->
+    <color name="orange">#f47920</color>
+    <!-- 肤色 -->
+    <color name="colour">#f5f5f5</color>
+    <!-- 白色 -->
+    <color name="white">#ffffff</color>
+
+    <!-- 筛选黑 -->
+    <color name="sift_black">#1f1f1f</color>
+
+    <!-- 筛选灰 -->
+    <color name="sift_gray">#383838</color>
+
+    <!-- 黑色 -->
+    <color name="table_line">#999999</color>
+    <color name="black">#000000</color>
+    <color name="default_readed">#bfbfbf</color>
+
+    <!-- 品蓝 -->
+    <color name="royal_blue">#4169E1</color>
+    <!-- 深蓝 -->
+    <color name="dark_blue">#004098</color>
+    <!-- 灰色 -->
+    <color name="gray">#a0a0a0</color>
+    <!-- 深灰 -->
+    <color name="dark_gray">#505050</color>
+    <!-- 淡灰 -->
+    <color name="light_gray">#c8c8c8</color>
+    <color name="jackie_blue">#0B1746</color>
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+    <color name="bronze">#FAEBD7</color>
+    <color name="red">#FF0000</color>
+    <color name="register_color">#0065b2</color>
+    <color name="ar_diver">#f2f2f2</color>
+    <color name="ar_diver_child">#d9d9d9</color>
+    <!-- 绿色 -->
+    <color name="green">#90EE90</color>
+    <color name="light_black">#333333</color>
+    <color name="gray_black">#666666</color>
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <color name="default_line_indicator_selected_color">#FF33B5E5</color>
+    <color name="default_line_indicator_unselected_color">#FFBBBBBB</color>
+    <color name="default_title_indicator_footer_color">#ff9900</color>
+    <color name="default_title_indicator_text_color">#808080</color>
+
+</resources>

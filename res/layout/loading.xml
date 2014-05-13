@@ -1,0 +1,74 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-40dp"
+        android:src="@drawable/logo" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-30dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <Button
+                android:id="@+id/bt_business"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:background="@drawable/bt_selector"
+                android:text="劳动人民最光荣" />
+
+            <Button
+                android:id="@+id/bt_profession"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:background="@drawable/bt_selector"
+                android:text="神马？你还没十一职业" />
+
+            <Button
+                android:id="@+id/bt_battlefield"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:background="@drawable/bt_selector"
+                android:text="战场达人" />
+
+            <Button
+                android:id="@+id/bt_more"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:background="@drawable/bt_selector"
+                android:text="小白福利" />
+
+            <Button
+                android:id="@+id/bt_aboutauthor"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:background="@drawable/bt_selector"
+                android:text="关于 应用 " />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/adLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center_horizontal" >
+    </LinearLayout>
+
+</LinearLayout>
